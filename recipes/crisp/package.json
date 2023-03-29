@@ -1,0 +1,9 @@
+{
+  "id": "crisp",
+  "name": "Crisp",
+  "version": "1.1.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.crisp.chat/initiate/login"
+  }
+}

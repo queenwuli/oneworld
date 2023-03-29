@@ -1,0 +1,9 @@
+{
+  "id": "pushbullet",
+  "name": "Pushbullet",
+  "version": "1.2.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.pushbullet.com/"
+  }
+}

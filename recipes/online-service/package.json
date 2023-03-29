@@ -1,0 +1,9 @@
+{
+  "id": "online-service",
+  "name": "在线客服",
+  "version": "1.2.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://chatlink.mstatik.com/widget/standalone.html?eid=801d4bc4bb88307045478a272f091aa7" 
+  }
+}

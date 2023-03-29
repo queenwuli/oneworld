@@ -1,0 +1,10 @@
+{
+  "id": "textnow",
+  "name": "TextNow",
+  "version": "1.1.2",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.textnow.com/",
+    "hasNotificationSound": true
+  }
+}

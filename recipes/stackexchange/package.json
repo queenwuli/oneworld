@@ -1,0 +1,9 @@
+{
+  "id": "stackexchange",
+  "name": "StackExchange",
+  "version": "1.2.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://stackexchange.com/"
+  }
+}

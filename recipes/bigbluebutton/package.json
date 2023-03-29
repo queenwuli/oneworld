@@ -1,0 +1,10 @@
+{
+  "id": "bigbluebutton",
+  "name": "BigBlueButton",
+  "version": "1.2.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://bigbluebutton.mycompany.com/",
+    "hasCustomUrl": true
+  }
+}

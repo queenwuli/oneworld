@@ -1,0 +1,9 @@
+{
+  "id": "textfree",
+  "name": "Textfree",
+  "version": "1.0.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://textfree.us"
+  }
+}

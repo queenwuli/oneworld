@@ -1,0 +1,9 @@
+{
+  "id": "okcupid",
+  "name": "okcupid",
+  "version": "1.2.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.okcupid.com"
+  }
+}

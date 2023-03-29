@@ -1,0 +1,9 @@
+{
+  "id": "skype",
+  "name": "Skype",
+  "version": "3.5.6",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://web.skype.com/"
+  }
+}
